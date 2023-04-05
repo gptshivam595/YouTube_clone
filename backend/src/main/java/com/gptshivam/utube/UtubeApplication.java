@@ -8,6 +8,7 @@ public class UtubeApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(UtubeApplication.class, args);
+		System.out.println("Starting the program!");
 	}
 
 }
